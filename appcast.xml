@@ -5,5 +5,17 @@
     <link>https://raw.githubusercontent.com/lllll8505-ui/t8w5-updmeta/main/appcast.xml</link>
     <description>Update feed</description>
     <language>en</language>
+    <item>
+      <title>1.0.0</title>
+      <link>https://github.com/lllll8505-ui/t8w5-updmeta/releases/tag/v1.0.0</link>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 05 Sep 2026 05:16:35 GMT</pubDate>
+      <enclosure url="https://github.com/lllll8505-ui/t8w5-updmeta/releases/download/v1.0.0/update-1.0.0.dmg"
+                 sparkle:edSignature="Xc6Air5HrELqEK3U/K8UUg08iiIwT4/dCOyhU+OEG3rv5+/b9tftW0dEVKQ3lb8Bkr2Euini2YYgf7ze8j3AAw=="
+                 length="5505055"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
