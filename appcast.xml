@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>업데이트</title>
+    <title>Updates</title>
     <link>https://raw.githubusercontent.com/lllll8505-ui/t8w5-updmeta/main/appcast.xml</link>
-    <description>업데이트 피드</description>
+    <description>Update feed</description>
     <language>en</language>
   </channel>
 </rss>
