@@ -6,6 +6,18 @@
     <description>Update feed</description>
     <language>en</language>
     <item>
+      <title>1.0.4</title>
+      <link>https://github.com/lllll8505-ui/t8w5-updmeta/releases/tag/v1.0.4</link>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 05 Sep 2026 13:07:10 GMT</pubDate>
+      <enclosure url="https://github.com/lllll8505-ui/t8w5-updmeta/releases/download/v1.0.4/update-1.0.4.dmg"
+                 sparkle:edSignature="5BPGfo/yg64tl2v8d3TZEJ4X2QraafewV0kd2gMygKHSw6KFR8+e4FXBrpAOXUE2UsPF6ui40xFgxk8FAUQhBg=="
+                 length="5544694"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>1.0.3</title>
       <link>https://github.com/lllll8505-ui/t8w5-updmeta/releases/tag/v1.0.3</link>
       <sparkle:version>1.0.3</sparkle:version>
